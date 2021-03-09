@@ -1,6 +1,6 @@
 ## Welcome to Darenbooks 大人儿书
 
-You can use the [editor on GitHub](https://github.com/darenbooks/darenbooks.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+在这里看见一些好玩的东西。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
