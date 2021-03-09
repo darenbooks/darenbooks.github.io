@@ -1,4 +1,4 @@
-## Welcome to Darenbooks 大人儿书
+## 大人儿书
 
 在这里看见一些好玩的东西。
 
