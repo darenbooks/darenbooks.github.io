@@ -4,6 +4,9 @@
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![33_controldata1](https://user-images.githubusercontent.com/79390946/110552031-8fdf5d80-8171-11eb-979c-fdd657d02650.jpg)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -20,6 +23,9 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
+![33_controldata1](https://user-images.githubusercontent.com/79390946/110552004-8524c880-8171-11eb-9217-0ffebae86031.jpg)
+
 
 **Bold** and _Italic_ and `Code` text
 
